@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: "asdf"
   annotations:
+    backstage.io/techdocs-entity: component:default/example
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
