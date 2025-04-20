@@ -1,7 +1,6 @@
 site_name: 'example-docs'
 
 nav:
-  - Home: index.md
-
+  - Home: README.md
 plugins:
   - techdocs-core
